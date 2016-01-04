@@ -26,4 +26,4 @@ To accomplish these goals are being developed four modules:
 3. Model Generator based on [EA Model Driven Generation (MDG) Technologies](http://www.sparxsystems.com/enterprise_architect_user_guide/9.2/standard_uml_models/mdgtechnologies.html);
 4. Code Generator based on [Acceleo](http://www.eclipse.org/acceleo) which allows model-to-text transformations with the guidance of code templates.
 
-**© 2013-2015 André Ribeiro and Prof. Alberto Silva (Supervisor) – Instituto Superior Técnico, University of Lisbon, and INESC-ID. All rights reserved.**
+**© 2013-2016 André Ribeiro and Prof. Alberto Silva (Supervisor) – Instituto Superior Técnico, University of Lisbon, and INESC-ID. All rights reserved.**
