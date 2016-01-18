@@ -28,7 +28,7 @@ To accomplish these goals are being developed four modules:
 
 **Papers published in this scope:**
 
-André Ribeiro, Alberto Rodrigues da Silva, [Evaluation of XIS-Mobile, a Domain Specific Language for Mobile Application Development], in Journal of Software Engineering and Applications, 7(11), October 2014, Scientific Research Publishing. http://www.scirp.org/journal/PaperInformation.aspx?paperID=50620. 
+André Ribeiro, Alberto Rodrigues da Silva, [Evaluation of XIS-Mobile, a Domain Specific Language for Mobile Application Development] (http://www.scirp.org/journal/PaperInformation.aspx?paperID=50620), in Journal of Software Engineering and Applications, 7(11), October 2014, Scientific Research Publishing. 
 
 André Ribeiro, Alberto Rodrigues da Silva, [XIS-Mobile: A DSL for Mobile Applications], in Proceedings of ACM SAC’2014 Conference, 2014, ACM. http://isg.inesc-id.pt/alb/static/papers/2014/c120-ar-SAC-2014.pdf.  
 
