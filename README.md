@@ -26,7 +26,7 @@ To accomplish these goals are being developed four modules:
 3. Model Generator based on [EA Model Driven Generation (MDG) Technologies](http://www.sparxsystems.com/enterprise_architect_user_guide/9.2/standard_uml_models/mdgtechnologies.html);
 4. Code Generator based on [Acceleo](http://www.eclipse.org/acceleo) which allows model-to-text transformations with the guidance of code templates.
 
-Papers published in this scope:
+**Papers published in this scope:**
 
 André Ribeiro, Alberto Rodrigues da Silva, Evaluation of XIS-Mobile, a Domain Specific Language for Mobile Application Development, in Journal of Software Engineering and Applications, 7(11), October 2014, Scientific Research Publishing. http://www.scirp.org/journal/PaperInformation.aspx?paperID=50620. 
 
