@@ -26,4 +26,13 @@ To accomplish these goals are being developed four modules:
 3. Model Generator based on [EA Model Driven Generation (MDG) Technologies](http://www.sparxsystems.com/enterprise_architect_user_guide/9.2/standard_uml_models/mdgtechnologies.html);
 4. Code Generator based on [Acceleo](http://www.eclipse.org/acceleo) which allows model-to-text transformations with the guidance of code templates.
 
+Papers published in this scope:
+
+André Ribeiro, Alberto Rodrigues da Silva, Evaluation of XIS-Mobile, a Domain Specific Language for Mobile Application Development, in Journal of Software Engineering and Applications, 7(11), October 2014, Scientific Research Publishing. http://www.scirp.org/journal/PaperInformation.aspx?paperID=50620. 
+
+André Ribeiro, Alberto Rodrigues da Silva, XIS-Mobile: A DSL for Mobile Applications, in Proceedings of ACM SAC’2014 Conference, 2014, ACM. http://isg.inesc-id.pt/alb/static/papers/2014/c120-ar-SAC-2014.pdf.  
+
+Alberto Rodrigues da Silva, João Saraiva, Rui Silva, Carlos Martins, XIS – UML Profile for eXtreme Modeling Interactive Systems, in Proceedings of the 4th International Workshop on Model-based Methodologies for Pervasive and Embedded Software, 2007, IEEE Computer Society .http://isg.inesc-id.pt/alb/static/papers/2007/i68-as-XISUMLProfile-MOMPES2007.pdf. 
+
+
 **© 2013-2016 André Ribeiro and Prof. Alberto Silva (Supervisor) – Instituto Superior Técnico, University of Lisbon, and INESC-ID. All rights reserved.**
