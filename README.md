@@ -30,11 +30,11 @@ To accomplish these goals are being developed four modules:
 
 André Ribeiro, Alberto Rodrigues da Silva, [Evaluation of XIS-Mobile, a Domain Specific Language for Mobile Application Development] (http://www.scirp.org/journal/PaperInformation.aspx?paperID=50620), in Journal of Software Engineering and Applications, 7(11), October 2014, Scientific Research Publishing. 
 
-André Ribeiro, Alberto Rodrigues da Silva, [XIS-Mobile: A DSL for Mobile Applications], in Proceedings of ACM SAC’2014 Conference, 2014, ACM. http://isg.inesc-id.pt/alb/static/papers/2014/c120-ar-SAC-2014.pdf.  
+André Ribeiro, Alberto Rodrigues da Silva, [XIS-Mobile: A DSL for Mobile Applications] (http://isg.inesc-id.pt/alb/static/papers/2014/c120-ar-SAC-2014.pdf), in Proceedings of ACM SAC’2014 Conference, 2014, ACM.  
 
-André Ribeiro, Alberto Rodrigues da Silva, [Survey on Cross-Platforms and Languages for Mobile Apps], in Proceedings of QUATIC’2012 Conference, 2012, IEEE Computer Society. http://isg.inesc-id.pt/alb/static/papers/2012/C111-ar-quatic-2012.pdf. 
+André Ribeiro, Alberto Rodrigues da Silva, [Survey on Cross-Platforms and Languages for Mobile Apps] (http://isg.inesc-id.pt/alb/static/papers/2012/C111-ar-quatic-2012.pdf), in Proceedings of QUATIC’2012 Conference, 2012, IEEE Computer Society. 
 
-Alberto Rodrigues da Silva, João Saraiva, Rui Silva, Carlos Martins, [XIS – UML Profile for eXtreme Modeling Interactive Systems], in Proceedings of the 4th International Workshop on Model-based Methodologies for Pervasive and Embedded Software, 2007, IEEE Computer Society .http://isg.inesc-id.pt/alb/static/papers/2007/i68-as-XISUMLProfile-MOMPES2007.pdf. 
+Alberto Rodrigues da Silva, João Saraiva, Rui Silva, Carlos Martins, [XIS – UML Profile for eXtreme Modeling Interactive Systems] (http://isg.inesc-id.pt/alb/static/papers/2007/i68-as-XISUMLProfile-MOMPES2007.pdf), in Proceedings of the 4th International Workshop on Model-based Methodologies for Pervasive and Embedded Software, 2007, IEEE Computer Society. 
 
 
 **© 2013-2016 André Ribeiro and Prof. Alberto Silva (Supervisor) – Instituto Superior Técnico, University of Lisbon, and INESC-ID. All rights reserved.**
