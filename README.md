@@ -1,7 +1,7 @@
 XIS-Mobile
 ==========
 
-XIS-Mobile is a Master's (MSc) Thesis project which intends to develop mobile applications using a Model-Driven Software Development approach with the goal of tackling the complexity of software development and the fragmentation of mobile platforms.  
+XIS-Mobile was designed/developed originally in the context of a Master's (MSc) Thesis project which intends to develop mobile applications using a Model-Driven Software Development approach with the goal of tackling the complexity of software development and the fragmentation of mobile platforms.  
 	In order to accomplish this goal, it proposes a Domain Specific Language (DSL) to describe mobile applications in a platform-independent way and a [Sparx Systems Enterprise Architect Model Driven Generation (MDG) Technologies](http://www.sparxsystems.com/enterprise_architect_user_guide/9.3/standard_uml_models/mdgtechnologies.html) and [EMF](http://www.eclipse.org/modeling/emf)-based framework which supports the language.  
 The XIS-Mobile language reuses some of the best concepts used in the XIS UML profile, used for modeling interactive systems, and introduces new ones in order to be more appropriate to mobile applications design. The latest version of the XIS-Mobile language comprises six views:
 
@@ -28,11 +28,13 @@ To accomplish these goals are being developed four modules:
 
 **Papers published in this scope:**
 
-André Ribeiro, Alberto Rodrigues da Silva, Evaluation of XIS-Mobile, a Domain Specific Language for Mobile Application Development, in Journal of Software Engineering and Applications, 7(11), October 2014, Scientific Research Publishing. http://www.scirp.org/journal/PaperInformation.aspx?paperID=50620. 
+André Ribeiro, Alberto Rodrigues da Silva, [Evaluation of XIS-Mobile, a Domain Specific Language for Mobile Application Development], in Journal of Software Engineering and Applications, 7(11), October 2014, Scientific Research Publishing. http://www.scirp.org/journal/PaperInformation.aspx?paperID=50620. 
 
-André Ribeiro, Alberto Rodrigues da Silva, XIS-Mobile: A DSL for Mobile Applications, in Proceedings of ACM SAC’2014 Conference, 2014, ACM. http://isg.inesc-id.pt/alb/static/papers/2014/c120-ar-SAC-2014.pdf.  
+André Ribeiro, Alberto Rodrigues da Silva, [XIS-Mobile: A DSL for Mobile Applications], in Proceedings of ACM SAC’2014 Conference, 2014, ACM. http://isg.inesc-id.pt/alb/static/papers/2014/c120-ar-SAC-2014.pdf.  
 
-Alberto Rodrigues da Silva, João Saraiva, Rui Silva, Carlos Martins, XIS – UML Profile for eXtreme Modeling Interactive Systems, in Proceedings of the 4th International Workshop on Model-based Methodologies for Pervasive and Embedded Software, 2007, IEEE Computer Society .http://isg.inesc-id.pt/alb/static/papers/2007/i68-as-XISUMLProfile-MOMPES2007.pdf. 
+André Ribeiro, Alberto Rodrigues da Silva, [Survey on Cross-Platforms and Languages for Mobile Apps], in Proceedings of QUATIC’2012 Conference, 2012, IEEE Computer Society. http://isg.inesc-id.pt/alb/static/papers/2012/C111-ar-quatic-2012.pdf. 
+
+Alberto Rodrigues da Silva, João Saraiva, Rui Silva, Carlos Martins, [XIS – UML Profile for eXtreme Modeling Interactive Systems], in Proceedings of the 4th International Workshop on Model-based Methodologies for Pervasive and Embedded Software, 2007, IEEE Computer Society .http://isg.inesc-id.pt/alb/static/papers/2007/i68-as-XISUMLProfile-MOMPES2007.pdf. 
 
 
 **© 2013-2016 André Ribeiro and Prof. Alberto Silva (Supervisor) – Instituto Superior Técnico, University of Lisbon, and INESC-ID. All rights reserved.**
