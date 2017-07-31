@@ -37,4 +37,4 @@ André Ribeiro, Alberto Rodrigues da Silva, [Survey on Cross-Platforms and Langu
 Alberto Rodrigues da Silva, João Saraiva, Rui Silva, Carlos Martins, [XIS – UML Profile for eXtreme Modeling Interactive Systems] (http://isg.inesc-id.pt/alb/static/papers/2007/i68-as-XISUMLProfile-MOMPES2007.pdf), in Proceedings of the 4th International Workshop on Model-based Methodologies for Pervasive and Embedded Software, 2007, IEEE Computer Society. 
 
 
-**© 2013-2016 André Ribeiro and Prof. Alberto Silva (Supervisor) – Instituto Superior Técnico, University of Lisbon, and INESC-ID. All rights reserved.**
+**© 2013-2017 André Ribeiro and Prof. Alberto Silva (Supervisor) – Instituto Superior Técnico, University of Lisbon, and INESC-ID. All rights reserved.**
